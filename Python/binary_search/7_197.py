@@ -5,7 +5,7 @@ import sys
 n=int(sys.stdin.readline().rstrip())
 valid = list(map(int, input().split()))
 valid.sort()
-
+#:)
 m=int(sys.stdin.readline().rstrip())
 need = list(map(int,input().split()))
 
